@@ -1,3 +1,14 @@
+# Data files
+/Generation of configurations/Autocor time count/L=10/
+/Generation of configurations/Autocor time count/L=20/
+/Generation of configurations/Autocor time count/L=30/
+/Generation of configurations/Autocor time count/L=40/
+/Generation of configurations/Autocor time count/L=80/
+/Generation of configurations/Autocor time count/L=120/
+/Generation of configurations/Autocor time count/pictures/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
