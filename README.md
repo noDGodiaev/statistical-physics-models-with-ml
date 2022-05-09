@@ -2,5 +2,11 @@
 
 This repo related to Study [project](https://cabinet.miem.hse.ru/#/project/329/info/2020) in faculty of the [Higher School of Economics](https://www.hse.ru/) - [Moscow Institute of Electronics and Mathematics](https://miem.hse.ru/).
 
-## The main idea
-Check the applicability of neural networks for determining the critical temperature in square two-dimensional two-component crystal lattices. Compare different approaches to training a deep neural network and determine appropriate metrics
+Diploma report [Overleaf](https://www.overleaf.com/read/hsqrqvjchnvc)
+Paper draft [Overleaf](https://www.overleaf.com/read/wmbnbhjccdwy)
+---
+
+Google Colab links:
+
+1. [Generation Ising lattice samples](https://colab.research.google.com/drive/10-HUFWjfShkjABFOJSuysyM9DHmbCaS7?usp=sharing) 
+2. [Analysis of predicted results](https://colab.research.google.com/drive/1krkzU8lkfZyzubPFHWBzLsrQ6E2SIflo?usp=sharing)
